@@ -1,0 +1,86 @@
+            <table border=1>
+			
+			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <th width="190">&nbsp;</th>
+                   <th width="20">&nbsp;</th>
+				   <th width="90" scope="col"><div align="center"><font color=blue>CODIGO</font></th>
+                   <th width="200" scope="col"><div align="left">DETALLE</th>
+                   <th width="60">POR CAJA</th>
+                   <th width="60"><div align="right">PRECIO</th>				   
+                   
+			       </tr>
+			
+			
+			
+            			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/603685.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>603685</font></td>
+                   <td width="200" scope="col"><div align="left">#*OF.D*FRAZADA LUMINOS POLAR PLUSH 1 1/2</td>
+                   <td valign="middle">50</td>
+                   <td valign="middle"><div align="right">8900</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/603681.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>603681</font></td>
+                   <td width="200" scope="col"><div align="left">#BUFANDA P/BEBE RAYAS/FLECOS COLOR</td>
+                   <td valign="middle">480</td>
+                   <td valign="middle"><div align="right">599</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/603272.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>603272</font></td>
+                   <td width="200" scope="col"><div align="left">#CUELLO ECONOMICO INFINITO LANA</td>
+                   <td valign="middle">250</td>
+                   <td valign="middle"><div align="right">1390</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/603134.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>603134</font></td>
+                   <td width="200" scope="col"><div align="left">#GUANTE MAGICO X12 COLOR</td>
+                   <td valign="middle">100</td>
+                   <td valign="middle"><div align="right">6890</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/603925.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>603925</font></td>
+                   <td width="200" scope="col"><div align="left">#GUANTE MOTO A234-19-4 B.</td>
+                   <td valign="middle">36</td>
+                   <td valign="middle"><div align="right">4100</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/603442.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>603442</font></td>
+                   <td width="200" scope="col"><div align="left">GUANTE MAGICO X12 NEGRO 210-1M</td>
+                   <td valign="middle">200</td>
+                   <td valign="middle"><div align="right">5420</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/603857.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>603857</font></td>
+                   <td width="200" scope="col"><div align="left">GUANTE MOTO A234-19-3 NEGRO/GRIS B.</td>
+                   <td valign="middle">600</td>
+                   <td valign="middle"><div align="right">2990</td>				                      
+			       </tr>
+                   
+               	</table>

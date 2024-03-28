@@ -1,0 +1,106 @@
+            <table border=1>
+			
+			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <th width="190">&nbsp;</th>
+                   <th width="20">&nbsp;</th>
+				   <th width="90" scope="col"><div align="center"><font color=blue>CODIGO</font></th>
+                   <th width="200" scope="col"><div align="left">DETALLE</th>
+                   <th width="60">POR CAJA</th>
+                   <th width="60"><div align="right">PRECIO</th>				   
+                   
+			       </tr>
+			
+			
+			
+            			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/61725.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>61725</font></td>
+                   <td width="200" scope="col"><div align="left">#*OF.D*ALBUM DE FIGUS DRAGON</td>
+                   <td valign="middle">200</td>
+                   <td valign="middle"><div align="right">690</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/615852.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>615852</font></td>
+                   <td width="200" scope="col"><div align="left">#*OF.D*LIBRO P/PINTAR PERS.SURTIDO</td>
+                   <td valign="middle">500</td>
+                   <td valign="middle"><div align="right">179</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/611934.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>611934</font></td>
+                   <td width="200" scope="col"><div align="left">#*OF.D*NAIPE 3064/5602GRANDE ESPA?OLAS</td>
+                   <td valign="middle">288</td>
+                   <td valign="middle"><div align="right">539</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/617802.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>617802</font></td>
+                   <td width="200" scope="col"><div align="left">#NAIPE COLECCIONABLE DRAGON 270505</td>
+                   <td valign="middle">720</td>
+                   <td valign="middle"><div align="right">740</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/610165.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>610165</font></td>
+                   <td width="200" scope="col"><div align="left">#NAIPE DOS NAC.2662/3235/1234 C.</td>
+                   <td valign="middle">60</td>
+                   <td valign="middle"><div align="right">1290</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/61735.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>61735</font></td>
+                   <td width="200" scope="col"><div align="left">#NAIPE ESPA?OL 0360 ROJA/AZUL</td>
+                   <td valign="middle">144</td>
+                   <td valign="middle"><div align="right">1290</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/61153.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>61153</font></td>
+                   <td width="200" scope="col"><div align="left">#NAIPE ESPA?OL X50 COPAG 1439</td>
+                   <td valign="middle">72</td>
+                   <td valign="middle"><div align="right">1490</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/611932.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>611932</font></td>
+                   <td width="200" scope="col"><div align="left">#NAIPE POKER TALLADOR 4447</td>
+                   <td valign="middle">60</td>
+                   <td valign="middle"><div align="right">1395</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/610151.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>610151</font></td>
+                   <td width="200" scope="col"><div align="left">#NAIPE UNO ECO NAC. 5017/1234/3457</td>
+                   <td valign="middle">60</td>
+                   <td valign="middle"><div align="right">1290</td>				                      
+			       </tr>
+                   
+               	</table>

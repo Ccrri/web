@@ -1,0 +1,66 @@
+            <table border=1>
+			
+			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <th width="190">&nbsp;</th>
+                   <th width="20">&nbsp;</th>
+				   <th width="90" scope="col"><div align="center"><font color=blue>CODIGO</font></th>
+                   <th width="200" scope="col"><div align="left">DETALLE</th>
+                   <th width="60">POR CAJA</th>
+                   <th width="60"><div align="right">PRECIO</th>				   
+                   
+			       </tr>
+			
+			
+			
+            			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/535442.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>535442</font></td>
+                   <td width="200" scope="col"><div align="left">#BANDERA ARG C/MASTIL 6103 AUTO</td>
+                   <td valign="middle">600</td>
+                   <td valign="middle"><div align="right">494</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/535202.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>535202</font></td>
+                   <td width="200" scope="col"><div align="left">#BANDERA X 25 35X55 S/SOL(C)</td>
+                   <td valign="middle">40</td>
+                   <td valign="middle"><div align="right">3850</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/535201.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>535201</font></td>
+                   <td width="200" scope="col"><div align="left">#BANDERA X25 15X25 S/SOL CHICA (C)</td>
+                   <td valign="middle">240</td>
+                   <td valign="middle"><div align="right">1470</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/535976.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>535976</font></td>
+                   <td width="200" scope="col"><div align="left">BANDERA X 25 15X25 C/SOL (C)</td>
+                   <td valign="middle">240</td>
+                   <td valign="middle"><div align="right">1580</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/535973.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>535973</font></td>
+                   <td width="200" scope="col"><div align="left">BANDERA X25 40X60 C/SOL</td>
+                   <td valign="middle">40</td>
+                   <td valign="middle"><div align="right">5320</td>				                      
+			       </tr>
+                   
+               	</table>

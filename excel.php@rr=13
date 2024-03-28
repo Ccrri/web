@@ -1,0 +1,46 @@
+            <table border=1>
+			
+			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <th width="190">&nbsp;</th>
+                   <th width="20">&nbsp;</th>
+				   <th width="90" scope="col"><div align="center"><font color=blue>CODIGO</font></th>
+                   <th width="200" scope="col"><div align="left">DETALLE</th>
+                   <th width="60">POR CAJA</th>
+                   <th width="60"><div align="right">PRECIO</th>				   
+                   
+			       </tr>
+			
+			
+			
+            			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/500270.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>500270</font></td>
+                   <td width="200" scope="col"><div align="left">#RELOJ DESPERTADOR B001</td>
+                   <td valign="middle">564</td>
+                   <td valign="middle"><div align="right">1790</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/500133.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>500133</font></td>
+                   <td width="200" scope="col"><div align="left">#RELOJ PULSERA 15214 CUERINA</td>
+                   <td valign="middle">58</td>
+                   <td valign="middle"><div align="right">2590</td>				                      
+			       </tr>
+                   
+               			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <td width="190" align="center"><img src="http://www.mega-import.com/fotos/500544.JPG" width="180" height="180" /></td>
+                   <td width="20">&nbsp;</td>
+				   <td width="90" scope="col" valign="middle"><div align="center"><font color=blue>500544</font></td>
+                   <td width="200" scope="col"><div align="left">RELOJ DESPERTADOR 2046/2143 C.</td>
+                   <td valign="middle">193</td>
+                   <td valign="middle"><div align="right">1490</td>				                      
+			       </tr>
+                   
+               	</table>

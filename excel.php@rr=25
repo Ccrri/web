@@ -1,0 +1,16 @@
+            <table border=1>
+			
+			       <tr>
+                   <td width="20">&nbsp;</td>
+                   <th width="190">&nbsp;</th>
+                   <th width="20">&nbsp;</th>
+				   <th width="90" scope="col"><div align="center"><font color=blue>CODIGO</font></th>
+                   <th width="200" scope="col"><div align="left">DETALLE</th>
+                   <th width="60">POR CAJA</th>
+                   <th width="60"><div align="right">PRECIO</th>				   
+                   
+			       </tr>
+			
+			
+			
+            	</table>
